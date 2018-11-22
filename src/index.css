@@ -1,0 +1,21 @@
+
+
+.message {
+  color: lightgrey;
+  background: green;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 1px;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.error {
+  color: lightgrey;
+  background: red;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 1px;
+  padding: 10px;
+  margin-bottom: 5px;
+}

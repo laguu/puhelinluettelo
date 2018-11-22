@@ -1,0 +1,29 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Martti Tienari",
+      "number": "040-123456",
+      "id": 2
+    },
+    {
+      "name": "Lea Kutvonen",
+      "number": "040-123456",
+      "id": 4
+    },
+    {
+      "name": "meme",
+      "number": "040-7189221",
+      "id": 6
+    },
+    {
+      "name": "mörkö",
+      "number": "666-666",
+      "id": 9
+    }
+  ]
+}
